@@ -4,8 +4,8 @@ const Map<String, String> FileTypeMap = {
   "ffd8ffe0": "jpg",
   "89504e47": "png", //PNG (png)
   "47494638": "gif", //GIF (gif)
-  "49492A00": "tif", //TIFF (tif)
-  "424D": "bmp", //16色位图(bmp)
+  "49492a00": "tif", //TIFF (tif)
+  "424d": "bmp", //16色位图(bmp)
   "424d8240090000000000": "bmp", //24位位图(bmp)
   "424d8e1b030000000000": "bmp", //256色位图(bmp)
   "41433130": "dwg", //CAD (dwg)
