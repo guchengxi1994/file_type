@@ -1,2 +1,2 @@
 # file_type
- 使用dart,根据文件头获取文件类型
+ 根据python [filetype.py](https://github.com/h2non/filetype.py)重写（WIP）
